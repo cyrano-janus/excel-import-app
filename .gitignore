@@ -1,0 +1,9 @@
+/target/
+*.log
+*.class
+*.iml
+.settings/
+.idea/
+*.json
+.env
+

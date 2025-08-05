@@ -5,3 +5,9 @@ spring:
     multipart:
       max-file-size: 10MB
       max-request-size: 10MB
+app:
+  storage:
+    skill-file: skills.json
+    soll-file: soll.json
+  csv:
+    separator: ;
